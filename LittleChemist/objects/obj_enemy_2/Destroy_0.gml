@@ -1,0 +1,1 @@
+if (realkilled) obj_player._gas = obj_player._gas + 1;
